@@ -3,6 +3,8 @@ This repository contains the source code for the research  paper titled "Calcula
 
 #### Authors: Pooja Chaudhary, [Ravin Kumar](https://mr-ravin.github.io)
 
+#### Preprints: [osf.io](https://doi.org/10.31219/osf.io/sme2a)
+
 ### Working Demonstration
 ```python
 import social_score
