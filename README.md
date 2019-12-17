@@ -13,4 +13,4 @@ res=social_score.social_score(consumer_key,consumer_secret,access_token,access_t
 ###res contains the social score value.
 ```
 
-#### Note: This scoring is recently developed, and does not convey any bias against anyone. Thats just pure mathematics, although the mathematical formulae can be improved to have better performance. 
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
