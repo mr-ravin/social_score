@@ -13,7 +13,7 @@ res=social_score.social_score(consumer_key,consumer_secret,access_token,access_t
 ###res contains the social score value.
 ```
 
-``python
+```python
 Copyright (c) 2013-2021 Pooja Chaudhary, Ravin Kumar
 Website: https://mr-ravin.github.io
 
