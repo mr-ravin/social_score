@@ -3,13 +3,14 @@ This repository contains the opensource implementation of the research  paper ti
 
 #### Authors: Pooja Chaudhary, [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Preprints: [osf.io](https://doi.org/10.31219/osf.io/sme2a)
+#### Earlier preprints: 
+- OSF Prefrints: https://doi.org/10.31219/osf.io/sme2a
 
 #### Prerequisites 
 
 - [Tweepy Library](https://github.com/tweepy/tweepy)
 
-### Working Demonstration
+### Steps for using this library
 ```python
 import social_score
 ### pass username , and degree_score along with the login credentials for twitter app.
