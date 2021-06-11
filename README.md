@@ -1,9 +1,13 @@
-# social_score
-This repository contains the source code for the research  paper titled "Calculate the score of a social media profile and posts on twitter and other social media sites on the internet".
+# Social_score : Calculate the score of a social media profile and posts on twitter and other social media sites on the internet
+This repository contains the opensource implementation of the research  paper titled "Calculate the score of a social media profile and posts on twitter and other social media sites on the internet".
 
 #### Authors: Pooja Chaudhary, [Ravin Kumar](https://mr-ravin.github.io)
 
 #### Preprints: [osf.io](https://doi.org/10.31219/osf.io/sme2a)
+
+#### Prerequisites 
+
+- [Tweepy Library](https://github.com/tweepy/tweepy)
 
 ### Working Demonstration
 ```python
