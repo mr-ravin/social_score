@@ -3,7 +3,7 @@ This repository contains the opensource implementation of the research  paper ti
 
 #### Paper Title: Calculate the score of a social media profile and posts on twitter and other social media sites on the internet
 
-#### Authors: Pooja Chaudhary, [Ravin Kumar](https://mr-ravin.github.io)
+#### Authors: [Pooja Chaudhary](https://pooja-chaudhary.github.io), [Ravin Kumar](https://mr-ravin.github.io)
 
 #### Publication:  2021.
 
@@ -34,6 +34,11 @@ import social_score
 ### pass username , and degree_score along with the login credentials for twitter app.
 res=social_score.social_score(consumer_key,consumer_secret,access_token,access_token_secret,username,degree_score) 
 ###res contains the social score value.
+```
+
+### Installing module using PyPi
+```python
+pip install social_score
 ```
 
 ```python
