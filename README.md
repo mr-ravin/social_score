@@ -38,7 +38,7 @@ res=social_score.social_score(consumer_key,consumer_secret,access_token,access_t
 
 ### Installing module using PyPi
 ```python
-pip install social-score
+pip install socialscore
 ```
 
 ```python
