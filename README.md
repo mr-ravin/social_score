@@ -30,9 +30,9 @@ This repository contains the opensource implementation of the research  paper ti
 
 ### Steps for using this library
 ```python
-import social_score
+import socialscore
 ### pass username , and degree_score along with the login credentials for twitter app.
-res=social_score.social_score(consumer_key,consumer_secret,access_token,access_token_secret,username,degree_score) 
+res=socialscore.social_score(consumer_key,consumer_secret,access_token,access_token_secret,username,degree_score) 
 ###res contains the social score value.
 ```
 
