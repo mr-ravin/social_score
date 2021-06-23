@@ -22,7 +22,8 @@ This repository contains the opensource implementation of the research  paper ti
 
 
 #### Earlier preprints: 
-- OSF Prefrints: https://doi.org/10.31219/osf.io/sme2a
+- OSF Preprints: https://doi.org/10.31219/osf.io/sme2a
+- SSRN Preprints: https://ssrn.com/abstract=3861433 
 
 #### Prerequisites 
 
