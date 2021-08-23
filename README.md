@@ -5,21 +5,22 @@ This repository contains the opensource implementation of the research  paper ti
 
 #### Authors: [Pooja Chaudhary](https://pooja-chaudhary.github.io), [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Publication:  2021.
+#### Publication:  23<sup>rd</sup> August, 2021.
 
-#### Publication Journal: 
+#### Publication Journal: [Advances in Computers and Electronics](https://www.syncsci.com/journal/ACE/index).
 
-#### Publication House: 
+#### Publication House: [SyncSci Publishing](https://www.syncsci.com).
 
-#### Publication link: 
+#### Publication link: https://doi.org/10.25082/ACE.2021.01.003 
 
 #### Cite as:
 
 ```
+Chaudhary, P., & Kumar, R. (2021). Calculate the score of a social media profile and posts on twitter and other social media sites on the internet. 
+Advances in Computers and Electronics, 2(1), 22-24. https://doi.org/10.25082/ACE.2021.01.003
 ```
 
-#### Doi: 
-
+#### Doi: [10.25082/ACE.2021.01.003](https://doi.org/10.25082/ACE.2021.01.003)
 
 #### Earlier preprints: 
 - OSF Preprints: https://doi.org/10.31219/osf.io/sme2a
